@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalBroadcastManager</string>
+    <string name="btn_broadcast_message">Broadcast Message</string>
+</resources>
